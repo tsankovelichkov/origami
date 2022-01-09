@@ -1,5 +1,5 @@
 import style from './Header.module.css';
-import ListItem from '../ListItem/ListItem';
+import ListItem from './ListItem/ListItem';
 
 function Header() {
     return (
